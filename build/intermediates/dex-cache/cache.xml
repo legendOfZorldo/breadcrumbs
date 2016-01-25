@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-3506b1ae41b60715603d8566b5a92618ec96110b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-401f9e97f5f38a85cc09f8fdf391c7fa3abd8d23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0ef43168bc644b22d5ffc1364544f530899835a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-3741947d5429b4d4f4e5b80e7b62aaeda716e5ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-65c585f3cb51b7d6ea40b29a362f569a0b562f27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-5cc1e8fd0746183b8972bea1198445cbe20537b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-7f093f99029435623f6175a1fdd17d0545357307.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-9a38d7d80eb4628660f74d00edc9e5a2a9e93e32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-52f86381f55458ce252d02ce80d46082aeb0b45b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-b2f6aae25519805774a10f75d87a98afa39db9e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-e3ab56bfa856de7d981b59bba31a9effa2ce177a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-d097c7db17e7d05b1100ca740c7fed4cd0cce96f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-53a3c437d531b683d90e497d9989838441397dc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-81c3793300042b37805b196e85be1995d6de8fe0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bd7375767f5c91a572bfc5ba975fe5670becb7de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-14458adf32dc242af6cb77b589f4509979d94da1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-b9b7eb7bb52e3775de89f589bac069b32ebe50b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-a913795c8bb19a067d4a7d24a1f2cff38fac0ea2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-1e888d428d0587a9b381848a6ae63634657f0ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-20164f44a4ab206affe477a2566235764ba86130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-8797a858790f4b8a67d2ff3f5de44e73e2707a32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-20f39b441a6a7a3eddf4568fcc0d594e4de827ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-59065fb6c4210f3dd63ac2eb26b4f6a4ca637bca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-68052c9e7e24c605eb483e96a7827abdd57b2279.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-272e7a2779f54e953a7322eaec52dd1634f5d6e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-070a70cedd022a1d52b653ff03f90a5168153202.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Wesley\Dropbox\Group 4 Project\Breadcrumbs\app\build\intermediates\pre-dexed\debug\classes-6c93ac0ffd660d107d6edbfbc504f905f1257b1b.jar" />
+    </item>
+
+</items>
